@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Stats
+#### Github Stats
 
 <a href="https://github.com/TYEclipse">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TYEclipse" />
 </a>
+
+### Top Languages
+
 <a href="https://github.com/TYEclipse">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYEclipse" />
 </a>
