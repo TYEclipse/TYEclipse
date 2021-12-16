@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-![TYEclipse's GitHub stats](https://github-readme-stats.vercel.app/api?username=TYEclipse)
-
 <!--
 **TYEclipse/TYEclipse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +18,4 @@ Here are some ideas to get you started:
 
 ![TYEclipse's GitHub stats](https://github-readme-stats.vercel.app/api?username=TYEclipse)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TYEclipse&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TYEclipse&langs_count=8)
