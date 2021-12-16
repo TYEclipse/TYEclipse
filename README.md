@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Welcome to My Profile
 <!--
 **TYEclipse/TYEclipse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 #### Stats
 
-![TYEclipse's GitHub stats](https://github-readme-stats.vercel.app/api?username=TYEclipse)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TYEclipse&langs_count=8)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
